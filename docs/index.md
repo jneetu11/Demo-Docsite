@@ -1,4 +1,12 @@
-
+<div class="row">
+  <div class="col-md-3">
+    <ul>
+      <li>Sec-1</li>
+      <li>Sec-2</li>
+      <li>Sec-13</li>
+    </ul>
+  </div>
+  <div class="col-md-9">
 ## Welcome to GitHub Pages
 
 <h2 style="color:#ddd;">New Heading</h2>
@@ -39,3 +47,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+</div>
+</div>
