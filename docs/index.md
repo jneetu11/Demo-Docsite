@@ -1,7 +1,7 @@
 
   <div class="col-md-3">
     <ul>
-      <li>Sec-1</li>
+      <li>[Page-1](https://github.com/jneetu11/Demo-Docsite/blob/main/docs/infoPage1)</li>
       <li>Sec-2</li>
       <li>Sec-13</li>
     </ul>
