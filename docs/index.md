@@ -1,7 +1,7 @@
 
   <div class="col-md-3">
     <ul>
-      <li><a href="https://github.com/jneetu11/Demo-Docsite/main/docs/infoPage1.yml">Page-1</a></li>
+      <li><a href="https://github.com/jneetu11/Demo-Docsite/main/docs/infopage.md">Page-1</a></li>
       <li>[Page-1](https://github.com/jneetu11/Demo-Docsite/blob/main/docs/infoPage1)</li>
       <li>Sec-2</li>
       <li>Sec-13</li>
